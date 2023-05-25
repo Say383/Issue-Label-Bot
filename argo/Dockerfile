@@ -1,4 +1,4 @@
-FROM python:3.10.10
+FROM python:3.12.0b1
 
 RUN pip install numpy pandas scikit-learn dill tensorflow dask ktext distributed dask-ml
 RUN mkdir /data
