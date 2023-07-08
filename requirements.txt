@@ -106,7 +106,7 @@ pyzmq==18.0.1
 qtconsole==4.4.3
 requests==2.21.0
 scikit-learn==0.20.3
-scipy==1.2.1
+scipy==1.8.0
 send2trash==1.5.0
 six==1.12.0
 spacy==2.1.3
